@@ -1,1 +1,1 @@
-# project_8_bmi_calculator
+# Project8BmiCalculator
